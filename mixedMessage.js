@@ -129,6 +129,28 @@ const astrologyDictionary = {
             character: "Natural and straightforward, unpredictable with continually changing emotions",
             advice: "Actions reveal your beliefs",
         },
+    },
+    Snake: {
+        Fire: {
+            character: "Smart, insightful, communicative, active, and fond of the limelight",
+            advice: "Speak with people older than you",
+        },
+        Water: {
+            character: "Clever, creative, lively, and communicative, but sentimental",
+            advice: "Write about your life",
+        },
+        Earth: {
+            character: "Calm, with strong self-control, but not steadfast and diligent enough in work",
+            advice: "Say no to almost everything",
+        },
+        Air: {
+            character: "Orderly, intelligent, with a gift for appreciating the knowing celebrities and a refined taste",
+            advice: "Say sorry more often",
+        },
+        Metal: {
+            character: "Determined, courageous, confident, and able: a born leader",
+            advice: "Bad experiences often become good stories",
+        },
     }
 };
 
