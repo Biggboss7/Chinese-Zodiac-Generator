@@ -107,6 +107,28 @@ const astrologyDictionary = {
             character: "Kind-hearted, conservative,lively and enthusiastic",
             advice: "Make what is valuable important. Instead of thinking about what is profitable, think about what is valuable. Invest in others and you will grow your portfolio.",
         },
+    },
+    Dragon: {
+        Fire: {
+            character: "Smart and easygoing, agile and flexible",
+            advice: "Believe in yourself",
+        },
+        Water: {
+            character: "Persevering, farsighted, and vigorous",
+            advice: "Everyone can teach you something",
+        },
+        Earth: {
+            character: "Smart, ambitious, and hardworking",
+            advice: " Give back before you're ready",
+        },
+        Air: {
+            character: "Introverted, less enthusiastic, and lacking in good relationships",
+            advice: "Be grateful for what you don't have",
+        },
+        Metal: {
+            character: "Natural and straightforward, unpredictable with continually changing emotions",
+            advice: "Actions reveal your beliefs",
+        },
     }
 };
 
