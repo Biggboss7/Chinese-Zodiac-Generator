@@ -38,10 +38,31 @@ const astrologyDictionary = {
             advice: "Luck comes from hard work",
         },
         Metal: {
-            character: "cheerful and peaceful person who is very polite and have many desirable qualities that are adored by people in life.",
+            character: "humorous by nature and love to indulge in healthy debates.",
             advice: "Don't try to impress everyone.",
-        }
-
+        },
+    },
+    Ox: {
+        Fire: {
+            character: "hot tempered, and they are easily influenced by others' words and actions",
+            advice: "Listen to learn. Learn how to listen. You can't learn anything when you're talking",
+        },
+        Water: {
+            character: "peace lovers, full of sense of justice, so they are always modest and gentle to people",
+            advice: "Life's good, but it's not fair. The delusion that life's supposed to be fair is the source of much unhappiness",
+        },
+        Earth: {
+            character: "diligent and courageous people seeing the affect from the Earth sign of the Chinese Five Elements",
+            advice: "No task is beneath you. Don't put yourself above anyone or anything; work hard in silence and let success make the noise",
+        },
+        Air: {
+            character: "upright, merciful, easygoing and generous characters",
+            advice: "You can't always get what you want. But, as the song says, if you try you may find you get what you need",
+        },
+        Metal: {
+            character: "dynamic, responsible and hardworking. In front of obstacles, they are courageous and persistent",
+            advice: "Don't make decisions when you are angry",
+        },
     }
 };
 
