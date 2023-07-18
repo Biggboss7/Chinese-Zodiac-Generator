@@ -173,6 +173,28 @@ const astrologyDictionary = {
             character: "kind, straightforward, and ready to help others",
             advice: "Go for a walk",
         },
+    },
+    Goat: {
+        Fire: {
+            character: "amicable, frank, and honest, always making everything clean and tidy, and are seldom disliked by others",
+            advice: "Slow down",
+        },
+        Water: {
+            character: "amicable and brimming with a strong sense of responsibility",
+            advice: "Progress is motivating",
+        },
+        Earth: {
+            character: "righteous, honest, straightforward, and will never harm their friends.",
+            advice: "Be charitable in your views of others",
+        },
+        Air: {
+            character: "gentle, compassionate, and ready to help others",
+            advice: "Don't wait for the money",
+        },
+        Metal: {
+            character: "ambitious and kind-hearted with a strong sense of responsibility in work.",
+            advice: "Progress isn't linear",
+        },
     }
 };
 
