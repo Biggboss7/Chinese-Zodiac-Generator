@@ -19,4 +19,30 @@ function elementGenerator() {
     return element[Math.floor(Math.random() * 5)];
 }
 
+const astrologyDictionary = {
+    Rat: {
+        Fire: {
+            character: "energetic, and are brave enough to face any difficulty and danger",
+            advice: "Don't try so hard to get something that doesn't belong to you, because the best things come when you least expect them to.",
+        },
+        Water: {
+            character: "short-sighted, selfish, narrow-minded, impersonal, but practical",
+            advice: "In order to get, you have to give",
+        },
+        Earth: {
+            character: "brave, competitive, unpredictable, and confident.",
+            advice: "Take time to know yourself",
+        },
+        Air: {
+            character: "cheerful and peaceful person who is very polite and have many desirable qualities that are adored by people in life.",
+            advice: "Luck comes from hard work",
+        },
+        Metal: {
+            character: "cheerful and peaceful person who is very polite and have many desirable qualities that are adored by people in life.",
+            advice: "Don't try to impress everyone.",
+        }
+
+    }
+};
+
 console.log(chineseZodiacGenerator());
