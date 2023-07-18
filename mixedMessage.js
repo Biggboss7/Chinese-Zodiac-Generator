@@ -151,6 +151,28 @@ const astrologyDictionary = {
             character: "Determined, courageous, confident, and able: a born leader",
             advice: "Bad experiences often become good stories",
         },
+    },
+    Horse: {
+        Fire: {
+            character: "smart, charismatic, lively, overflowing with enthusiasm, and have the potential to lead the way concerning fashion trends.",
+            advice: "Choose optimism",
+        },
+        Water: {
+            character: "irritable and sentimental in life, but their friends still show them the utmost solicitude.",
+            advice: "Follow your energy",
+        },
+        Earth: {
+            character: "optimistic, kind-hearted, righteous, and ready to help their friends, therefore, they have a lot of friends in work.",
+            advice: "Go for it",
+        },
+        Air: {
+            character: "greatly admired due to their insightful analyses on issues, and they often read the minds of others.",
+            advice: "Read books",
+        },
+        Metal: {
+            character: "kind, straightforward, and ready to help others",
+            advice: "Go for a walk",
+        },
     }
 };
 
