@@ -195,6 +195,28 @@ const astrologyDictionary = {
             character: "ambitious and kind-hearted with a strong sense of responsibility in work.",
             advice: "Progress isn't linear",
         },
+    },
+    Monkey: {
+        Fire: {
+            character: "Ambitious and adventurous, but irritable",
+            advice: "Inner peace > external achievement",
+        },
+        Water: {
+            character: "Smart, quick-witted, fond of being in the limelight, but haughty",
+            advice: "Be around people who want the best for you",
+        },
+        Earth: {
+            character: "Frank, optimistic, and fearless",
+            advice: "Stop overthinking",
+        },
+        Air: {
+            character: "Always ready to help others; compassionate, with strong self-esteem, but stubborn",
+            advice: "Focus on today",
+        },
+        Metal: {
+            character: "Smart, quick-witted, and confident, but also irritable and stubborn.",
+            advice: "Choose your response",
+        },
     }
 };
 
