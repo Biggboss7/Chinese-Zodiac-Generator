@@ -85,6 +85,28 @@ const astrologyDictionary = {
             character: "fascinated with power and they will achieve great success in politics if they work hard enough",
             advice: "Treat others the way you want to be treated",
         },
+    },
+    Rabbit: {
+        Fire: {
+            character: "Broad-minded, smart, and flexible, with unique views",
+            advice: "When you quit, you fail",
+        },
+        Water: {
+            character: "Gentle, amicable, able to adjust readily to different conditions, but with a weak mindset and principles",
+            advice: "Trust your instincts. What good is intuition if you let second-guessing drown it out? The worst enemy of success is self-doubt.",
+        },
+        Earth: {
+            character: "Frank, straightforward, ambitious, hard-working, but slightly reserved",
+            advice: " Trust your instincts",
+        },
+        Air: {
+            character: "Clever, quick-witted, selfish, lively in appearance, but shrewd at heart",
+            advice: "Learn something new every day",
+        },
+        Metal: {
+            character: "Kind-hearted, conservative,lively and enthusiastic",
+            advice: "Make what is valuable important. Instead of thinking about what is profitable, think about what is valuable. Invest in others and you will grow your portfolio.",
+        },
     }
 };
 
