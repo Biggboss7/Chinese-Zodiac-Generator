@@ -261,6 +261,28 @@ const astrologyDictionary = {
             character: "Conservative, accommodating, strong sense of self-respect.",
             advice: "Play to your strengths",
         },
+    },
+    Pig: {
+        Fire: {
+            character: "Ambitious, persevering, but impatient",
+            advice: "View challenges as opportunities",
+        },
+        Water: {
+            character: "Gentle, modest, earnest, responsible, but subjective in life",
+            advice: "Test what you know",
+        },
+        Earth: {
+            character: "Communicative, popular among their friends, with a strong sense of time keeping",
+            advice: "Be willing to try something at least once",
+        },
+        Air: {
+            character: "Good-natured, lovely, easy-going, generous, brave but irritable",
+            advice: "Every person has experienced something that you haven't ",
+        },
+        Metal: {
+            character: "Broad-minded, amicable, and willing to help others",
+            advice: "Always give credit",
+        },
     }
 };
 
