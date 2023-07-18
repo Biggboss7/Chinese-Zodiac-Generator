@@ -239,6 +239,28 @@ const astrologyDictionary = {
             character: "Determined, brave, perseverant, and hardworking",
             advice: "Don't take shortcuts",
         },
+    },
+    Dog: {
+        Fire: {
+            character: "Kind-hearted, cautious, working in a down-to-earth way.",
+            advice: "Visualize your success",
+        },
+        Water: {
+            character: "Foresighted, responsible, but some self-centered.",
+            advice: "Limit your daily tasks",
+        },
+        Earth: {
+            character: "Persistent, meticulously attentive, with good fortune in wealth.",
+            advice: "Set goals",
+        },
+        Air: {
+            character: "Honest, reliable, considerate, having a strong feeling for justice.",
+            advice: "Celebrate all the successes",
+        },
+        Metal: {
+            character: "Conservative, accommodating, strong sense of self-respect.",
+            advice: "Play to your strengths",
+        },
     }
 };
 
