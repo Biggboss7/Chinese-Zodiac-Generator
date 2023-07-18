@@ -19,6 +19,7 @@ function elementGenerator() {
     return element[Math.floor(Math.random() * 5)];
 }
 
+// Chinese Astrology Dictionary
 const astrologyDictionary = {
     Rat: {
         Fire: {
@@ -286,4 +287,12 @@ const astrologyDictionary = {
     }
 };
 
-console.log(chineseZodiacGenerator());
+// Message Displayer
+function displayMessage() {
+    const selectedZodiac = chineseZodiacGenerator();
+    const selectedElement = elementGenerator();
+    return `You have a Chinese Zodiac of: ${selectedZodiac} ${selectedElement}\nYour Character: ${astrologyDictionary[selectedZodiac][selectedElement].character}\nA Piece of Advice: ${astrologyDictionary[selectedZodiac][selectedElement].advice};
+    `
+};
+
+console.log(displayMessage());
