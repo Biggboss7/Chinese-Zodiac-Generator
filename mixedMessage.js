@@ -13,4 +13,10 @@ function chineseZodiacGenerator() {
     return zodiac[Math.floor(Math.random() * 12)];
 };
 
+// Element Generator
+function elementGenerator() {
+    const element = ["Fire", "Water", "Earth", "Air", "Metal"];
+    return element[Math.floor(Math.random() * 5)];
+}
+
 console.log(chineseZodiacGenerator());
