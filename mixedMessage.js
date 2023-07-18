@@ -217,6 +217,28 @@ const astrologyDictionary = {
             character: "Smart, quick-witted, and confident, but also irritable and stubborn.",
             advice: "Choose your response",
         },
+    },
+    Rooster: {
+        Fire: {
+            character: "Trustworthy, with a strong sense of timekeeping and responsibility at work",
+            advice: "Pay it forward",
+        },
+        Water: {
+            character: "Smart, quick-witted, tenderhearted, and compassionate",
+            advice: "Take care of yourself",
+        },
+        Earth: {
+            character: "Lovely, generous, trustworthy, and popular with their friends",
+            advice: "Balance the “doing” and “being” mind",
+        },
+        Air: {
+            character: "Energetic, overconfident, tender, and unstable",
+            advice: "Feel your pain",
+        },
+        Metal: {
+            character: "Determined, brave, perseverant, and hardworking",
+            advice: "Don't take shortcuts",
+        },
     }
 };
 
