@@ -63,6 +63,28 @@ const astrologyDictionary = {
             character: "dynamic, responsible and hardworking. In front of obstacles, they are courageous and persistent",
             advice: "Don't make decisions when you are angry",
         },
+    },
+    Tiger: {
+        Fire: {
+            character: "very independent in life and never yield before difficulties or worldly issues",
+            advice: "Don't worry what other people think",
+        },
+        Water: {
+            character: "professional in the fields of art and handicrafts. You have a strong sense of self-esteem and seldom accept advice from others.",
+            advice: "Use adversity as an opportunity. Every loss leads to an opportunity, and every adversity leads to new possibilities.",
+        },
+        Earth: {
+            character: "are factual and realistic people with unwavering beliefs who only believe what they see and, as a result, they have the potential to seek the truth.",
+            advice: "Do what is right, not what is easy",
+        },
+        Air: {
+            character: "cooperative and communicative in work, and they also like to work with others to achieve common goals.",
+            advice: "Dreams remain dreams until you take action. Without action, an idea is just a dream",
+        },
+        Metal: {
+            character: "fascinated with power and they will achieve great success in politics if they work hard enough",
+            advice: "Treat others the way you want to be treated",
+        },
     }
 };
 
