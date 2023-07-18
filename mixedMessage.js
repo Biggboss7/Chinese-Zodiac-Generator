@@ -6,3 +6,11 @@
         2. Purpose
             In this project, everytime users start the program, they will be given a random chinese zodiac sign as well as the element. Base on this zodiac, users will know about their personal trait and will be given a random piece of advice to make them feel better.
 */
+
+// Chinese Zodiac Generator
+function chineseZodiacGenerator() {
+    const zodiac = ["Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake", "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"];
+    return zodiac[Math.floor(Math.random() * 12)];
+};
+
+console.log(chineseZodiacGenerator());
